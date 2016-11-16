@@ -7,6 +7,7 @@ public class Solution028 {
 
 	}
 	public int strStr(String haystack, String needle) {
+		System.out.println("hhaa");
 		return haystack.indexOf(needle);
 	}
 }
